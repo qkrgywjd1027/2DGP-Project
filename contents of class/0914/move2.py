@@ -4,8 +4,8 @@ from pico2d import *
 
 open_canvas()
 
-gra = load_image('grass.png')
-ch = load_image('character.png')
+gra = load_image('images/grass.png')
+ch = load_image('images/character.png')
 
 x = 0
 while x < 800:

@@ -4,8 +4,8 @@ from pico2d import *
 
 open_canvas()
 
-gra = load_image('grass.png')
-ch = load_image('animation_sheet.png')
+gra = load_image('images/grass.png')
+ch = load_image('images/animation_sheet.png')
 
 x = 0
 frame_index = 0
