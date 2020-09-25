@@ -3,7 +3,7 @@ turtle
 
 turtle.shape('turtle')
 
-turtle.speed(0)
+
 
 def draw_bieup():
 	turtle.pendown()
