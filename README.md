@@ -14,7 +14,7 @@
 ```
 ***
 ## 2. GameState (Scene)의 수 및 각각의 이름
-+ state의 수는 총 6개
++ GameState의 수는 총 6개
 ```
 1.start state 
 2.title state 
