@@ -13,12 +13,12 @@
 # 2. GameState (Scene)의 수 및 각각의 이름
 + state의 수는 총 6개
 ```
-- 1.start state 
-- 2.title state 
-- 3.main state 
-- 4.pause state 
-- 5.result state 
-- 6.score state
+1.start state 
+2.title state 
+3.main state 
+4.pause state 
+5.result state 
+6.score state
 ```
 
 # 3. 각 GameState 별 다음 항목
