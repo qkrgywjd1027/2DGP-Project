@@ -9,10 +9,11 @@
 # 2. GameState의 수 및 각각의 이름
 * 
 ```
--
-- 
-- 
-- 
+- start state : 게임 최초 실행 한번만 학교 로고를 보여준다.
+- title state : 내 게임의 메인 이미지를 보여준다.
+- main state : 게임이 플레이하는 주 화면
+- pause state : 사운드를 조정하거나 게임 재시작 돌아가기 기능이있다.
+- result state :  게임 결과 창 
 ```
 
 # 3. 각 GameState 별 다음 항목
