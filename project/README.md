@@ -52,8 +52,8 @@
 + result state: 게임 결과 창 , 최종 스코어 점수를 보여준다.  
 ``` 
   -화면에 표시할 객체: 결과창 화면이미지, 플레이어 이미지, 폰트  
-  -처리할 키/마우스: space bar, esc  
-  -다른 State로 이동 조건 및 방법: esc를 누르면 title  state로 돌아가고 space bar를 누르면 score state로 넘어간다.  
+  -처리할 키/마우스: esc ,
+  -다른 State로 이동 조건 및 방법: esc를 누르면 title  state로 돌아가고 s를 누르면 score state로 넘어간다.  
 ``` 
 + score state: 게임 랭킹 창 , 랭킹 순위 기록을 보여준다.  
 ``` 
