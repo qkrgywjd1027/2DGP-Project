@@ -10,9 +10,10 @@
 장애물을 맞으면 게임이 종료되고 최대한 많은시간을 버티는것이 게임 점수로 연결되며 그 기록이 랭킹에 저장되어 순위로 기록됩니다.
 결국 높은 랭킹 순위에 드는 것이 목적입니다.
 게임 플레이 도중 가끔 내려오는 특정 아이템에 의해 스코어를 올리는데 도움을 받을 수 있습니다.
-게임은 방향키를 이용하여 장애물을 피할 수 있습니다.        
-<img width="574" alt="playex" src="https://user-images.githubusercontent.com/63097748/95647230-c2285880-0b08-11eb-83a1-6b6cb84658e4.PNG">       
-```
+게임은 방향키를 이용하여 장애물을 피할 수 있습니다.              
+```    
+<img width="574" alt="playex" src="https://user-images.githubusercontent.com/63097748/95647230-c2285880-0b08-11eb-83a1-6b6cb84658e4.PNG"> 
+    
 ***
 ## 2. GameState (Scene)의 수 및 각각의 이름
 + GameState의 수는 총 6개
